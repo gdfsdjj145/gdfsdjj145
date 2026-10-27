@@ -61,7 +61,6 @@ Build your web application, fast
 | [awesome-game-skill](https://github.com/gdfsdjj145/awesome-game-skill) | 精选 AI 游戏开发 Skill / MCP / 工具合集 · Curated AI game-dev skills, MCPs & tools |
 | [awesome-kimi-k3-game](https://github.com/gdfsdjj145/awesome-kimi-k3-game) | Kimi K3 做的游戏效果合集 · Game effects built with Kimi K3 |
 | [content-pipeline-skill](https://github.com/gdfsdjj145/content-pipeline-skill) | 一条龙公众号内容生成 Skill · End-to-end WeChat article pipeline skill |
-| [mvpfast-two](https://github.com/gdfsdjj145/mvpfast-two) | MvpFast 源码 · MvpFast source |
 | [survey-ui](https://github.com/gdfsdjj145/survey-ui) | 快速构建问卷题目的 UI 库 · UI kit for building survey questions |
 
 ## 📊 Stats
